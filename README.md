@@ -159,6 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Oyebamiji Mustapha - [Github](https://github.com/musoye) / [Twitter](https://twitter.com/musoye1)
+Odinigwe Elvis - [Github](https://github.com/Elvino03)
 
 Second part of Airbnb: Joann Vuong
 Fourth part of Airbnb: Oyebamiji Mustapha
